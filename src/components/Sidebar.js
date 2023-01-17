@@ -76,6 +76,8 @@ const SidebarButtons = styled(Grid, {shouldForwardProp: (props) => props !== "co
   color: theme.palette.primaryLightGrey,
   cursor: 'pointer',
   paddingLeft: subsection && '3.2rem',
+  fontFamily: theme.typography.fontFamily,
+  fontSize: theme.typography.fontSizeMedium,
   '&:hover': {
     color: theme.palette.primaryWhite,
     background: theme.palette.primaryDarkGrey,

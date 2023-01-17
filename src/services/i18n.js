@@ -49,6 +49,7 @@ const translationEn = {
   bachelor_of_science: "Bachelor of Science",
   honours_degree: "Honours Degree",
   diploma_of_computer_programming: "Diploma of Computer Programming",
+  smart_way: "Smart Way Binding",
   gpa: "Accelerated GPA: 3.7",
 
 }
@@ -100,7 +101,7 @@ const translationFr = {
   honours_degree: "Baccalauréat Spécialisé",
   diploma_of_computer_programming: "Diplôme de Programmation Informatique",
   gpa: "GPA accéléré: 3.7",
-
+  smart_way: "Smart Way Binding",
 }
 
 i18n

@@ -35,6 +35,12 @@ const PROJECTS = [
     logoSrc: '/images/zod_project.png',
     description: 'zod_description',
   },
+  {
+    companyName: "Smart Way Binding",
+    url: 'https://smartway-sample.netlify.app/',
+    logoSrc: '/images/smartway_project.png',
+    description: '',
+  },
 ]
 
 const Avtar = styled("img")(({ theme }) => ({

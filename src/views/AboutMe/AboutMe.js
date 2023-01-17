@@ -39,6 +39,7 @@ const AboutMeTextContainer = styled(Grid)(({ theme }) => ({
   justifyContent: 'space-between',
   maxWidth: '550px',
   marginRight: '3rem',
+  fontFamily: theme.typography.fontFamily,
   [theme.breakpoints.down("lg")]: {
     width: '56%',
     marginRight: 0,

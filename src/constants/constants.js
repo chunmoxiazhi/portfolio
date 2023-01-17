@@ -36,6 +36,11 @@ export const SIDE_BAR_LIST = [
         path: "experience",
         expandable: false,
       },
+      {
+        title: "smart_way",
+        path: "experience",
+        expandable: false,
+      },
     ]
   },
   {

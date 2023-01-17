@@ -82,6 +82,7 @@ const ContactMeButton = styled('button', {shouldForwardProp: (props) => props !=
   height: 100,
   borderRadius: 100,
   background: 'white',
+  fontFamily: theme.typography.fontFamily,
   border: `5px solid ${theme.palette.text.darkBlue}`,
   animation: expanded && 'extend 1s ease-in-out',
   animationFillMode: expanded && 'forwards',
