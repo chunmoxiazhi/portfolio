@@ -76,7 +76,7 @@ const ContactMeButton = styled('button', {shouldForwardProp: (props) => props !=
       },
     },
   },
-  
+  cursor: 'pointer',
   borderWidth: '1px',
   width: 300,
   height: 100,
